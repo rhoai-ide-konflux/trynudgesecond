@@ -1,1 +1,1 @@
-FROM quay.io/redhat-user-workloads/rhoai-ide-konflux-tenant/trynudgefirst@sha256:25888ad812e9ca0b9768c845215229e2715727b09d53bf18f90ba055c714e869
+FROM quay.io/redhat-user-workloads/rhoai-ide-konflux-tenant/trynudgefirst@sha256:015458c583371a74041344ba9f9284c97af4de183036df0a6cf146181af27cf9
